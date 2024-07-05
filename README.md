@@ -1,3 +1,3 @@
 # Portfolio-Website
 
-using javascript,swiper.js,mixitup(library)
+using html, css, javascript, swiper.js, mixitup(library)
